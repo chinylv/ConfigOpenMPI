@@ -20,7 +20,6 @@ Usage
 ----------
 
 sh mic.sh
-sh mu.sh
 sh gpu.sh
 sh fat.sh
 sh node.sh
