@@ -20,6 +20,9 @@ Usage
 ----------
 
 sh mic.sh
+
 sh gpu.sh
+
 sh fat.sh
+
 sh node.sh
