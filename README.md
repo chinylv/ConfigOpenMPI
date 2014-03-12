@@ -1,7 +1,7 @@
 ConfigOpenMPI
 =============
 
-Config OpenMPI to enable more memory in usage.
+Configure OpenMPI to enable more memory in usage.
 
 ----------
 
